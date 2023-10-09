@@ -19,7 +19,7 @@ Venkatesh is an Engineer at heart. He is a currently working with IBM, Designing
 <a href="https://twitter.com/venkatesh111" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/twitter/follow/venkatesh111?style=social"></a>
 
 
-- My Home: https://www.WorkInProgress.in/ (its dummy 😄!!)
+- My Home: https://venkateshk111.github.io/
 
 </p>
 </div>
