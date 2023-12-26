@@ -4,7 +4,9 @@
 	list-style: none;
 	box-sizing: border-box;
 	/* font-family: 'Barlow Condensed', sans-serif; */
-  font-family: Georgia, serif;
+  /* font-family: Georgia, serif; */
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+  
 }
 
 body{
