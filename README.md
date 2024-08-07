@@ -1,13 +1,16 @@
 ### Hi there 👋 This is Venkatesh
 > Engineer by Degree, AWS Architect by Profession, and a DevOps Enthusiast.  
 
+
 <!-- <img src="imgs/aws-saa-dva-badge.png" alt="AWS 3x Certified" height="120" style="vertical-align:top; margin:4px"> -->
 <div style="text-align: center;">
-    <img src="imgs/aws-saa-c02-badge.png" alt="AWS 3x Certified" height="120" style="vertical-align: top; margin: 4px; display: inline-block;">
-    <img src="imgs/aws-dva-c01-badge.png" alt="AWS 3x Certified" height="120" style="vertical-align: top; margin: 4px; display: inline-block;">
-    <img src="imgs/aws-dop-c02-badge.png" alt="AWS 3x Certified" height="120" style="vertical-align: top; margin: 4px; display: inline-block;">
-    <img src="imgs/tf-associate-badge.png" alt="AWS 3x Certified" height="120" style="vertical-align: top; margin: 4px; display: inline-block;">
+    <img src="imgs/aws-saa-c02-badge.png" alt="AWS saa Certified" height="120" style="vertical-align: top; margin: 4px; display: inline-block;">
+    <img src="imgs/aws-dva-c01-badge.png" alt="AWS dva Certified" height="120" style="vertical-align: top; margin: 4px; display: inline-block;">
+    <img src="imgs/aws-dop-c02-badge.png" alt="AWS dop Certified" height="120" style="vertical-align: top; margin: 4px; display: inline-block;">
+    <img src="imgs/tf-associate-badge.png" alt="Terraform Certified" height="120" style="vertical-align: top; margin: 4px; display: inline-block;">
 </div>
+
+<br>
 
 <div>
  <p>
