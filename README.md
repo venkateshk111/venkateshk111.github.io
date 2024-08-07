@@ -2,10 +2,13 @@
 > Engineer by Degree, AWS Architect by Profession, and a DevOps Enthusiast.  
 
 <!-- <img src="imgs/aws-saa-dva-badge.png" alt="AWS 3x Certified" height="120" style="vertical-align:top; margin:4px"> -->
-<img src="imgs/aws-saa-c02-badge.png" alt="AWS 3x Certified" height="120" style="vertical-align:top; margin:4px">
-<img src="imgs/aws-dva-c01-badge.png" alt="AWS 3x Certified" height="120" style="vertical-align:top; margin:4px">
-<img src="imgs/aws-dop-c02-badge.png" alt="AWS 3x Certified" height="120" style="vertical-align:top; margin:4px">
-<img src="imgs/tf-associate-badge.png" alt="AWS 3x Certified" height="120" style="vertical-align:top; margin:4px">
+<div style="text-align: center;">
+    <img src="imgs/aws-saa-c02-badge.png" alt="AWS 3x Certified" height="120" style="vertical-align: top; margin: 4px; display: inline-block;">
+    <img src="imgs/aws-dva-c01-badge.png" alt="AWS 3x Certified" height="120" style="vertical-align: top; margin: 4px; display: inline-block;">
+    <img src="imgs/aws-dop-c02-badge.png" alt="AWS 3x Certified" height="120" style="vertical-align: top; margin: 4px; display: inline-block;">
+    <img src="imgs/tf-associate-badge.png" alt="AWS 3x Certified" height="120" style="vertical-align: top; margin: 4px; display: inline-block;">
+</div>
+
 <div>
  <p>
 Venkatesh is an Engineer at heart. He is a currently working with IBM, Designing Automated solutions on AWS and other Cloud platforms. Venkatesh is AWS 3x Certified, 1x Terraform Certified, and also a Udemy Instructor. 
